@@ -11,6 +11,12 @@
     text-align: right;        
 }
 
+.logo {
+    margin-top: 0.8vh;
+    margin-left: 3vh;
+    float: left;
+}
+
 .nav1{
     height: 50px;
     background-color: lawngreen;
